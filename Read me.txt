@@ -1,0 +1,2 @@
+In this project You can see sale analysis in the first sheet, In this report we can analyse Our sales  in Top products by each employee and state and costumers.
+also we can interaction between tiles to see in specific  location how the other subject changed.
