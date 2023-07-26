@@ -1,2 +1,2 @@
 # DailySales
-Report from Daily Sales
+Report from Daily Sales in Power Bi
